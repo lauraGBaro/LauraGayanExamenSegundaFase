@@ -1,0 +1,14 @@
+C:\Users\E0\source\repos\LauraGayanBaro\API\bin\Debug\netcoreapp2.2\API.deps.json
+C:\Users\E0\source\repos\LauraGayanBaro\API\bin\Debug\netcoreapp2.2\API.runtimeconfig.json
+C:\Users\E0\source\repos\LauraGayanBaro\API\bin\Debug\netcoreapp2.2\API.runtimeconfig.dev.json
+C:\Users\E0\source\repos\LauraGayanBaro\API\bin\Debug\netcoreapp2.2\API.dll
+C:\Users\E0\source\repos\LauraGayanBaro\API\obj\Debug\netcoreapp2.2\API.csprojAssemblyReference.cache
+C:\Users\E0\source\repos\LauraGayanBaro\API\obj\Debug\netcoreapp2.2\API.csproj.CoreCompileInputs.cache
+C:\Users\E0\source\repos\LauraGayanBaro\API\obj\Debug\netcoreapp2.2\API.RazorAssemblyInfo.cache
+C:\Users\E0\source\repos\LauraGayanBaro\API\obj\Debug\netcoreapp2.2\API.RazorAssemblyInfo.cs
+C:\Users\E0\source\repos\LauraGayanBaro\API\obj\Debug\netcoreapp2.2\API.AssemblyInfoInputs.cache
+C:\Users\E0\source\repos\LauraGayanBaro\API\obj\Debug\netcoreapp2.2\API.AssemblyInfo.cs
+C:\Users\E0\source\repos\LauraGayanBaro\API\obj\Debug\netcoreapp2.2\API.RazorTargetAssemblyInfo.cache
+C:\Users\E0\source\repos\LauraGayanBaro\API\bin\Debug\netcoreapp2.2\API.pdb
+C:\Users\E0\source\repos\LauraGayanBaro\API\obj\Debug\netcoreapp2.2\API.dll
+C:\Users\E0\source\repos\LauraGayanBaro\API\obj\Debug\netcoreapp2.2\API.pdb
